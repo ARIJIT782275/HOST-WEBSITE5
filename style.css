@@ -1,0 +1,18 @@
+/* style.css */
+body {
+    background-color: black;
+    color: #FFD700; /* গোল্ডেন রঙ */
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    border: 2px solid #FFD700;
+    padding: 10px;
+    text-shadow: 2px 2px 5px #FFD700;
+}
